@@ -1,0 +1,30 @@
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.exe
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.deps.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.runtimeconfig.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.csproj.AssemblyReference.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.AssemblyInfoInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.AssemblyInfo.cs
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.csproj.CoreCompileInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\refint\LR1.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.genruntimeconfig.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\ref\LR1.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.exe
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.deps.json
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.runtimeconfig.json
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\bin\Debug\net6.0\LR1.pdb
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.csproj.AssemblyReference.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.AssemblyInfoInputs.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.AssemblyInfo.cs
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.csproj.CoreCompileInputs.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\refint\LR1.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.pdb
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\LR1.genruntimeconfig.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR1\LR1\obj\Debug\net6.0\ref\LR1.dll
