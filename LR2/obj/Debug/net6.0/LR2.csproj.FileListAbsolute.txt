@@ -1,0 +1,30 @@
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.exe
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.exe
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll
