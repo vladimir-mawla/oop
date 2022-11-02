@@ -1,0 +1,15 @@
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\bin\Debug\net6.0\LR6.exe
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\bin\Debug\net6.0\LR6.deps.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\bin\Debug\net6.0\LR6.runtimeconfig.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\bin\Debug\net6.0\LR6.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\bin\Debug\net6.0\LR6.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.csproj.AssemblyReference.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.AssemblyInfoInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.AssemblyInfo.cs
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.csproj.CoreCompileInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\refint\LR6.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\LR6.genruntimeconfig.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR6\LR6\obj\Debug\net6.0\ref\LR6.dll

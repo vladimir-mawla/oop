@@ -1,0 +1,17 @@
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\bin\Debug\net6.0-windows\LR8.exe
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\bin\Debug\net6.0-windows\LR8.deps.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\bin\Debug\net6.0-windows\LR8.runtimeconfig.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\bin\Debug\net6.0-windows\LR8.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\bin\Debug\net6.0-windows\LR8.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.csproj.AssemblyReference.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.Form1.resources
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.csproj.GenerateResource.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.AssemblyInfoInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.AssemblyInfo.cs
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.csproj.CoreCompileInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\refint\LR8.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\LR8.genruntimeconfig.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR8\LR8\obj\Debug\net6.0-windows\ref\LR8.dll

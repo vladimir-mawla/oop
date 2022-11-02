@@ -1,0 +1,15 @@
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\bin\Debug\net6.0\LR2-M.exe
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\bin\Debug\net6.0\LR2-M.deps.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\bin\Debug\net6.0\LR2-M.runtimeconfig.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\bin\Debug\net6.0\LR2-M.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\bin\Debug\net6.0\LR2-M.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.csproj.AssemblyReference.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.AssemblyInfoInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.AssemblyInfo.cs
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.csproj.CoreCompileInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\refint\LR2-M.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\LR2-M.genruntimeconfig.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR2-M\LR2-M\obj\Debug\net6.0\ref\LR2-M.dll

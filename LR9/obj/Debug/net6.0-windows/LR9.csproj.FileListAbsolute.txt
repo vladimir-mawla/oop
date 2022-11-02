@@ -1,0 +1,17 @@
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\bin\Debug\net6.0-windows\LR9.exe
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\bin\Debug\net6.0-windows\LR9.deps.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\bin\Debug\net6.0-windows\LR9.runtimeconfig.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\bin\Debug\net6.0-windows\LR9.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\bin\Debug\net6.0-windows\LR9.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.csproj.AssemblyReference.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.Form1.resources
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.csproj.GenerateResource.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.AssemblyInfoInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.AssemblyInfo.cs
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.csproj.CoreCompileInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\refint\LR9.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\LR9.genruntimeconfig.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR9\LR9\obj\Debug\net6.0-windows\ref\LR9.dll

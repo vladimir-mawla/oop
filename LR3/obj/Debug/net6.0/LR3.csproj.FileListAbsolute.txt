@@ -1,0 +1,36 @@
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.exe
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3-Matrix.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3-Matrix.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CopyComplete
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+C:\Users\yaolg\Desktop\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.exe
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.deps.json
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.runtimeconfig.json
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3.pdb
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3-Matrix.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\bin\Debug\net6.0\LR3-Matrix.pdb
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.csproj.AssemblyReference.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfoInputs.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.AssemblyInfo.cs
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.csproj.CopyComplete
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\refint\LR3.dll
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.pdb
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\LR3.genruntimeconfig.cache
+C:\Users\Адам\Desktop\Cтол\3 курс\Лабы\Зайгов. ООП\С#\LR3\LR3\obj\Debug\net6.0\ref\LR3.dll
